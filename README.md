@@ -8,6 +8,13 @@ Fullstack e-commerce com **arquitetura hexagonal**, **Domain-Driven Design**, **
 - **Frontend:** React 18, TypeScript, Vite, React Router
 - **Infra:** Docker Compose (tudo orquestrado)
 
+## Imagens:
+<img width="1917" height="944" alt="image" src="https://github.com/user-attachments/assets/6da14bb0-0e87-4f28-b4a3-c4fa6f876222" />
+<img width="1917" height="944" alt="image" src="https://github.com/user-attachments/assets/94f4e2cf-d0af-444c-84b1-521b0624bd13" />
+<img width="1917" height="945" alt="image" src="https://github.com/user-attachments/assets/43627e28-7e6f-4bfe-a578-d125fdb5ea7f" />
+<img width="1915" height="951" alt="image" src="https://github.com/user-attachments/assets/91fe028d-bc84-4cb5-aa66-fc97c0c0ba50" />
+
+
 ## Como rodar
 
 **Requisito único:** Docker Desktop instalado e rodando.
